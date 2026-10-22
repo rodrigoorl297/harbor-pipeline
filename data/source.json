@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "segment": "fintech",
+    "value": 47,
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "segment": "fintech",
+    "value": 54,
+    "status": "reversed"
+  },
+  {
+    "id": 3,
+    "segment": "fintech",
+    "value": 61,
+    "status": "posted"
+  },
+  {
+    "id": 4,
+    "segment": "fintech",
+    "value": 68,
+    "status": "pending"
+  },
+  {
+    "id": 5,
+    "segment": "fintech",
+    "value": 75,
+    "status": "reversed"
+  },
+  {
+    "id": 6,
+    "segment": "fintech",
+    "value": 82,
+    "status": "posted"
+  },
+  {
+    "id": 7,
+    "segment": "fintech",
+    "value": 89,
+    "status": "pending"
+  },
+  {
+    "id": 8,
+    "segment": "fintech",
+    "value": 96,
+    "status": "reversed"
+  },
+  {
+    "id": 9,
+    "segment": "fintech",
+    "value": 103,
+    "status": "posted"
+  },
+  {
+    "id": 10,
+    "segment": "fintech",
+    "value": 110,
+    "status": "pending"
+  },
+  {
+    "id": 11,
+    "segment": "fintech",
+    "value": 117,
+    "status": "reversed"
+  },
+  {
+    "id": 12,
+    "segment": "fintech",
+    "value": 124,
+    "status": "posted"
+  }
+]
